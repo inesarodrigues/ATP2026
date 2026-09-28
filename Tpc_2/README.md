@@ -10,4 +10,4 @@ Neste trabalho foi nos pedido para fazer um jogo de adivinhação, em linguagem 
 
 
 ## Link de resultados 
-* [Jogo_de_adivinhação](Tpc_2/jogo_de_adivinhação.py)
+* [Jogo_de_adivinhação](https://github.com/inesarodrigues/ATP2026/blob/main/Tpc_2/jogo_de_adivinha%C3%A7%C3%A3o.py)
