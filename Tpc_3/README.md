@@ -5,7 +5,7 @@
 >Nome: Inês Alves Rodrigues<br>Número mecanográfico: a114138
 
 ## Resumo
-Neste trabalho foi nos pedido para fazer uma corrida para os 100, em linguagem Python, que tem a funcionalidade de de ser o utilizador a começar a escolher um número de 1 a 10 ou ser o computador a começar e escolher um número, de 1 a 10 para, no fim de todas as somas, declarar o vencedor quem chegar primeiro a 100.
+Neste trabalho foi nos pedido para fazer uma corrida para os 100, em linguagem Python, que tem a funcionalidade de de ser o utilizador a começar a escolher um número de 1 a 10 ou ser o computador a começar e escolher um número, de 1 a 10 para, no fim de todas as somas, declarar o vencedor quem chegar ao 100 primeiro.
 
 
 
