@@ -44,11 +44,10 @@ while correr:
     elif op == 8:
         def guardarTurma(turma, fnome):
             file = open(fnome,"w") 
-            for p in turma:
-                for termo in p:
+            for termo in turma:
                     nome, id, notaTPC, notaProj, notaTeste = termo
                     file.write(f"{nome}#{id}#{notaTPC}#{notaProj}#{notaTeste}|")
-                file.write("\n")
+                    file.write("\n")
             file.close()
         guardarTurma(turma,"turma.txt")
 
