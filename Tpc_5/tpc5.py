@@ -61,8 +61,7 @@ while correr:
                 for t in inf[-1]:
                     nome, id, notaTPC, notaProj, notaTeste = t.split("#")
                     termo = ((nome),(id),float(notaTPC),float(notaProj),float(notaTeste))
-                    aluno.appende(termo)
-                turma.append(aluno)
+                    turma.append(termo)
             file.close()
             return turma
         print(recuperarTurma("turma.txt") )
