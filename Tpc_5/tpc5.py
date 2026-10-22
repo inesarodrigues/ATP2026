@@ -4,7 +4,7 @@ while correr:
     print("1: Criar uma turma;")
     print("2: Inserir um aluno na turma;")
     print("3: Listar a turma;")
-    print("4: Consultar um aluno por id;")
+    print("4: Consultar um aluno por ID;")
     print("8: Guardar a turma em ficheiro;")
     print("9: Carregar uma turma dum ficheiro;")
     print("0: Sair da aplicação")
