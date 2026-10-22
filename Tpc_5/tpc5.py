@@ -1,4 +1,5 @@
 correr=True
+
 while correr:
     print("1: Criar uma turma;")
     print("2: Inserir um aluno na turma;")
@@ -45,9 +46,8 @@ while correr:
         def guardarTurma(turma, fnome):
             file = open(fnome,"w") 
             for termo in turma:
-                    nome, id, notaTPC, notaProj, notaTeste = termo
-                    file.write(f"{nome}#{id}#{notaTPC}#{notaProj}#{notaTeste}|")
-                    file.write("\n")
+                    nome, id, [notaTPC, notaProj, notaTeste] = termo
+                    file.write(f"{nome}#{id}#{notaTPC}#{notaProj}#{notaTeste}|\n")
             file.close()
         guardarTurma(turma,"turma.txt")
 
