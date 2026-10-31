@@ -10,4 +10,4 @@ Neste trabalho foi nos pedido para criar uma aplicação Python que permita ao u
 
 
 ## Link de resultados 
-* [Aplicação para gestão de alunos](https://github.com/inesarodrigues/ATP2026/blob/main/Tpc_6/Tpc6.py)
+* [Aplicação com as funcionalidades da ficha](https://github.com/inesarodrigues/ATP2026/blob/main/Tpc_6/Tpc6.py)
